@@ -4,4 +4,4 @@ Test text
 
 * Test points
 * Test points
-* Test points
+* Test point
